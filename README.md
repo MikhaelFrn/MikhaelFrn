@@ -2,7 +2,7 @@
 
 ## About me
 
-Developer based in Montréal, Québec. I build web apps and backend tooling, mostly in TypeScript, and I'm also working in C#. I'm looking towards embedded systems and hardware: building things I can actually hold and touch. Currently looking for winter 2027 internships 
+Developer based in Montréal, Québec. I build web apps and backend tooling, mostly in TypeScript, and I'm also working in C#. I'm looking towards embedded systems and hardware: building things I can actually hold and touch. Currently looking for winter 2027 internships.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make music and take car pictures in my free time
 
@@ -21,22 +21,20 @@ Developer based in Montréal, Québec. I build web apps and backend tooling, mos
 ## 📌 Featured projects
 
 ### [paper batch](https://github.com/MikhaelFrn/paper-batch) · [live](https://comic-vault-sigma.vercel.app)
-A comic collection tracker that makes it easy to start a collection and keep track of what you own and what to get next. Live feed of new issues, "runs" to follow a writer's stretch on a title and link them into a reading plan, custom lists and wishlists, barcode and cover scanning, and search across ComicVine's catalog. Available in English and French.
+A comic collection tracker that makes it easy to start a collection and keep track of what you own and what to get next. Live feed of new issues, "runs" to follow a writer's stretch on a title and link them into a reading plan, custom lists and wishlists, barcode and cover scanning, and search across ComicVine's catalog. Available in English and French. *(formerly Comic Vault, renaming in progress)*<br>
 `TanStack Start` · `TypeScript` · `React` · `Tailwind CSS` · `Supabase` · `Vercel`
 
 ### [EshetikVault — POS / Checkout module](https://github.com/MikhaelFrn/Projet-Facturation)
-The point-of-sale and invoicing module of a SaaS for beauty salons, spas and clinics. Turns a completed appointment into an invoice, calculates taxes from configurable profiles, handles split payments, gift cards, prepaid packages, prorated tips, and voids/refunds. Includes a unit-tested business layer and a documented API.
+The point-of-sale and invoicing module of a SaaS for beauty salons, spas and clinics. Turns a completed appointment into an invoice, calculates taxes from configurable profiles, handles split payments, gift cards, prepaid packages, prorated tips, and voids/refunds. Includes a unit-tested business layer and a documented API.<br>
 `Next.js` · `React` · `TypeScript` · `Drizzle ORM` · `Supabase Postgres` · `Vitest`
 
 ### [NetWatching](https://github.com/MikhaelFrn/NetWatching)
-A simple port scanner written in C#, split into a reusable class library and a console app. Work in progress.
+A simple port scanner written in C#, split into a reusable class library and a console app. Work in progress.<br>
 `C#` · `.NET` · `Networking`
 
-#### and more!
+### [and more](https://github.com/MikhaelFrn?tab=repositories)
 
 ## 📫 Reach me
 
 - 📍 Montréal, Québec
-- 💼 LinkedIn: www.linkedin.com/in/mikhaël-françois-1407bz1507xa
-- ✉️ Email: mikhael.francois@gmail.com
 - 🌐 Français / English
